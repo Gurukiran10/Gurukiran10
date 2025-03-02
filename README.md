@@ -17,6 +17,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Gurukiran10&label=Profile+Views&color=blue&style=plastic)
+
+
 ### 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukiran10&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukiran10&layout=compact&theme=radical)
