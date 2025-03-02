@@ -13,7 +13,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukiran10&show_icons=true&theme=radical&count_private=true)  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukiran10&layout=compact&theme=radical&langs_count=8)  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurukiran10&theme=radical)  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Gurukiran10&theme=radical&margin-w=15&no-frame=true)  
+
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=Gurukiran10&label=Profile+Views&color=blue&style=plastic)
 
