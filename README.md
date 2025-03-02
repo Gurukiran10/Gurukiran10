@@ -7,18 +7,17 @@
 - 💡 Exploring: [🤖 **AI-Based Resume Analyzer**](#)  
 - ⚡ Fun Fact: I love riding bikes! 🎥🏍️  
 
-### 🚀 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 📊 GitHub Stats  
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukiran10&show_icons=true&theme=radical&count_private=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukiran10&layout=compact&theme=radical&langs_count=8)  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurukiran10&theme=radical)  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Gurukiran10&theme=radical&margin-w=15&no-frame=true)  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Gurukiran10&label=Profile+Views&color=blue&style=plastic)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Gurukiran10&label=Profile+Views&color=blue&style=plastic)
 
+</div>
 
 ### 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukiran10&show_icons=true&theme=radical)
