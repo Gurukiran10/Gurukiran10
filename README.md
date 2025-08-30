@@ -2,8 +2,8 @@
 🚀 **AI & ML Enthusiast | Full-Stack Developer | Passionate About Problem-Solving**  
 
 ### 👨‍💻 About Me  
-- 🎓 AIML Engineering Student (3rd Year)  
-- 🔭 Currently working on: [🛍️ **E-commerce Project**](#)  
+- 🎓 AIML Engineering Student (4th Year)  
+- 🔭 Currently working on: [🛍️ **Air Sync: Dual-Drone Synchronization**](#)  
 - 💡 Exploring: [🤖 **AI-Based Resume Analyzer**](#)  
 - ⚡ Fun Fact: I love riding bikes! 🎥🏍️  
 
