@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 AIML Engineering Student (4th Year)  
-- 🔭 Currently working on: [🛍️ **Air Sync: Dual-Drone Synchronization**](#)  
+- 🔭 Currently working on: [🛍️ **AirSync: Real-Time Distance Constrained Coordination Between Dual Drones**](#)  
 - 💡 Exploring: [🤖 **AI-Based Resume Analyzer**](#)  
 - ⚡ Fun Fact: I love riding bikes! 🎥🏍️  
 
