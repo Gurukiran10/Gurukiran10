@@ -15,13 +15,21 @@
     .k { fill:var(--pink); }
     .a { fill:var(--accent); }
     .badge { font-size:11px; letter-spacing:1.5px; fill:var(--accent); }
-    .l { opacity:0; animation: show 16s infinite; }
-    @keyframes show { 0%{opacity:0; transform:translateY(4px)} 2%{opacity:1; transform:none} 92%{opacity:1} 97%{opacity:0} 100%{opacity:0} }
+    .l { animation: show 16s infinite backwards; }
+    @keyframes show { 0%{opacity:0} 2%{opacity:1} 92%{opacity:1} 97%{opacity:0} 100%{opacity:0} }
+    .d1 { animation-delay:.2s; }
+    .d2 { animation-delay:.9s; }
+    .d3 { animation-delay:2s; }
+    .d4 { animation-delay:2.7s; }
+    .d5 { animation-delay:3.9s; }
+    .d6 { animation-delay:4.8s; }
+    .d7 { animation-delay:6s; }
+    .d8 { animation-delay:6.7s; }
     .cursor { fill:var(--accent); animation: blink 1s steps(1) infinite; }
     @keyframes blink { 50% { opacity:0 } }
     .pulse { fill:var(--accent); animation: pulse 1.6s ease-in-out infinite; }
     @keyframes pulse { 50% { opacity:.35 } }
-    @media (prefers-reduced-motion: reduce) { .l { animation:none; opacity:1 } }
+    @media (prefers-reduced-motion: reduce) { .l { animation:none } }
   </style>
 
   <rect class="card" x="1" y="1" width="898" height="288" rx="16" stroke-width="1.5"/>
@@ -33,16 +41,16 @@
   <text class="badge" x="812" y="27">ONLINE</text>
 
   <g transform="translate(28 84)">
-    <g class="l" style="animation-delay:.2s"><text y="0"><tspan class="p">$</tspan> whoami</text></g>
-    <g class="l" style="animation-delay:.9s"><text y="26"><tspan class="o">→ Gurukiran S · AI engineer · B.E. AI/ML 2026 · ex-SeedlingLabs</tspan></text></g>
+    <g class="l d1"><text y="0"><tspan class="p">$</tspan> whoami</text></g>
+    <g class="l d2"><text y="26"><tspan class="o">→ Gurukiran S · AI engineer · B.E. AI/ML 2026 · ex-SeedlingLabs</tspan></text></g>
 
-    <g class="l" style="animation-delay:2s"><text y="60"><tspan class="p">$</tspan> cat focus.txt</text></g>
-    <g class="l" style="animation-delay:2.7s"><text y="86"><tspan class="b">agents that</tspan> act in real systems<tspan class="o"> · </tspan><tspan class="k">ask</tspan> when it's your call<tspan class="o"> · </tspan><tspan class="a">verify</tspan> before "done"</text></g>
+    <g class="l d3"><text y="60"><tspan class="p">$</tspan> cat focus.txt</text></g>
+    <g class="l d4"><text y="86"><tspan class="b">agents that</tspan> act in real systems<tspan class="o"> · </tspan><tspan class="k">ask</tspan> when it's your call<tspan class="o"> · </tspan><tspan class="a">verify</tspan> before "done"</text></g>
 
-    <g class="l" style="animation-delay:3.9s"><text y="120"><tspan class="p">$</tspan> acme eval --summary</text></g>
-    <g class="l" style="animation-delay:4.8s"><text y="146"><tspan class="a">✓ 0 false successes</tspan><tspan class="o"> in 27 live runs · 16/17 dev scenarios · 81 tests</tspan></text></g>
+    <g class="l d5"><text y="120"><tspan class="p">$</tspan> acme eval --summary</text></g>
+    <g class="l d6"><text y="146"><tspan class="a">✓ 0 false successes</tspan><tspan class="o"> in 27 live runs · 16/17 dev scenarios · 81 tests</tspan></text></g>
 
-    <g class="l" style="animation-delay:6s"><text y="180"><tspan class="p">$</tspan> open gurukiran10.github.io</text></g>
-    <g class="l" style="animation-delay:6.7s"><text y="206"><tspan class="a">✓</tspan><tspan class="o"> portfolio live · open to AI / backend roles </tspan><tspan class="cursor">█</tspan></text></g>
+    <g class="l d7"><text y="180"><tspan class="p">$</tspan> open gurukiran10.github.io</text></g>
+    <g class="l d8"><text y="206"><tspan class="a">✓</tspan><tspan class="o"> portfolio live · open to AI / backend roles </tspan><tspan class="cursor">█</tspan></text></g>
   </g>
 </svg>
