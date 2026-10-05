@@ -1,5 +1,5 @@
 <a href="https://gurukiran10.github.io">
-  <img src="assets/header.svg?v=2" alt="Gurukiran S — AI engineer. I build AI agents that do the work and prove it." width="100%" />
+  <img src="assets/header.svg?v=3" alt="Gurukiran S — AI engineer. I build AI agents that do the work and prove it." width="100%" />
 </a>
 
 <p align="center">
