@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Gurukiran S — AI Engineer. I build AI agents that do the work and prove it.">
+  <style>
+    :root { --bg:#0b0c0e; --bar:#141519; --line:#25262c; --text:#ededef; --muted:#8b8b95; --dim:#5f5f69; --accent:#c8f560; --blue:#7cc4ff; --pink:#e7a6ff; }
+    @media (prefers-color-scheme: light) {
+      :root { --bg:#fdfbf5; --bar:#f1ebdd; --line:#e6dfcf; --text:#1a1915; --muted:#5d594f; --dim:#8a8476; --accent:#4d7c0f; --blue:#1f6fb2; --pink:#8e3bb5; }
+    }
+    .card { fill:var(--bg); stroke:var(--line); }
+    .bar { fill:var(--bar); }
+    .sep { stroke:var(--line); }
+    text { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Consolas, "Liberation Mono", monospace; font-size:15px; fill:var(--text); }
+    .title { font-size:13px; fill:var(--muted); }
+    .p { fill:var(--accent); }
+    .o { fill:var(--muted); }
+    .b { fill:var(--blue); }
+    .k { fill:var(--pink); }
+    .a { fill:var(--accent); }
+    .badge { font-size:11px; letter-spacing:1.5px; fill:var(--accent); }
+    .l { opacity:0; animation: show 16s infinite; }
+    @keyframes show { 0%{opacity:0; transform:translateY(4px)} 2%{opacity:1; transform:none} 92%{opacity:1} 97%{opacity:0} 100%{opacity:0} }
+    .cursor { fill:var(--accent); animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0 } }
+    .pulse { fill:var(--accent); animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 50% { opacity:.35 } }
+    @media (prefers-reduced-motion: reduce) { .l { animation:none; opacity:1 } }
+  </style>
+
+  <rect class="card" x="1" y="1" width="898" height="288" rx="16" stroke-width="1.5"/>
+  <path class="bar" d="M17 1.75h866a15.25 15.25 0 0 1 15.25 15.25V44H1.75V17A15.25 15.25 0 0 1 17 1.75z"/>
+  <line class="sep" x1="1" y1="44" x2="899" y2="44"/>
+  <circle cx="26" cy="23" r="6.5" fill="#ff5f57"/><circle cx="48" cy="23" r="6.5" fill="#febc2e"/><circle cx="70" cy="23" r="6.5" fill="#28c840"/>
+  <text class="title" x="94" y="27.5">gurukiran@agents: ~</text>
+  <circle class="pulse" cx="800" cy="23" r="4"/>
+  <text class="badge" x="812" y="27">ONLINE</text>
+
+  <g transform="translate(28 84)">
+    <g class="l" style="animation-delay:.2s"><text y="0"><tspan class="p">$</tspan> whoami</text></g>
+    <g class="l" style="animation-delay:.9s"><text y="26"><tspan class="o">→ Gurukiran S · AI engineer · B.E. AI/ML 2026 · ex-SeedlingLabs</tspan></text></g>
+
+    <g class="l" style="animation-delay:2s"><text y="60"><tspan class="p">$</tspan> cat focus.txt</text></g>
+    <g class="l" style="animation-delay:2.7s"><text y="86"><tspan class="b">agents that</tspan> act in real systems<tspan class="o"> · </tspan><tspan class="k">ask</tspan> when it's your call<tspan class="o"> · </tspan><tspan class="a">verify</tspan> before "done"</text></g>
+
+    <g class="l" style="animation-delay:3.9s"><text y="120"><tspan class="p">$</tspan> acme eval --summary</text></g>
+    <g class="l" style="animation-delay:4.8s"><text y="146"><tspan class="a">✓ 0 false successes</tspan><tspan class="o"> in 27 live runs · 16/17 dev scenarios · 81 tests</tspan></text></g>
+
+    <g class="l" style="animation-delay:6s"><text y="180"><tspan class="p">$</tspan> open gurukiran10.github.io</text></g>
+    <g class="l" style="animation-delay:6.7s"><text y="206"><tspan class="a">✓</tspan><tspan class="o"> portfolio live · open to AI / backend roles </tspan><tspan class="cursor">█</tspan></text></g>
+  </g>
+</svg>
